@@ -1,0 +1,1 @@
+Sample implementation of a light weight service in Ruby via Sinatra.
